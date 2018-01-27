@@ -1,4 +1,8 @@
-|Realease [Pre-Alpha-Version] [1.0.0.0]
+|[Pre-Alpha-Version] [1.0.0.0] [Samstag, 28.01.2018 00:15 Uhr]
+[Funktionsupdate] realease Eula.txt
+[Funktionsupdate] release Update System
+[Funktionsupdate] realease changelog
+|[Pre-Alpha-Version] [1.0.0.0] [Samstag, 28.01.2018 00:15 Uhr]
 [Funktionsupdate] realease Eula.txt
 [Funktionsupdate] release Update System
 [Funktionsupdate] realease changelog
