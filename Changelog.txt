@@ -2,7 +2,6 @@
 [Funktionsupdate] realease Eula.txt
 [Funktionsupdate] release Update System
 [Funktionsupdate] realease changelog
-| [Pre-Alpha-Version] [1.0.0.0] [Samstag, 28.01.2018 00:15 Uhr]
-[Funktionsupdate] realease Eula.txt
-[Funktionsupdate] release Update System
-[Funktionsupdate] realease changelog
+| [Pre-Alpha-Version] [1.0.1.0] [Sonntag, 29.01.2018 13:00 Uhr]
+[Funktionsupdate] SQL Login System
+[Funktionsupdate] Font System
