@@ -5,3 +5,6 @@
 | [Pre-Alpha-Version] [1.0.1.0] [Sonntag, 29.01.2018 13:00 Uhr]
 [Funktionsupdate] SQL Login System
 [Funktionsupdate] Font System
+| [Alpha-Version] [1.0.2.218] [Sonntag, 23.03.2018 20:00 Uhr]
+[Funktionsupdate] Admin konsole
+[Funktionsupdate] Error handler
