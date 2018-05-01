@@ -8,3 +8,9 @@
 | [Alpha-Version] [1.0.2.218] [Sonntag, 23.03.2018 20:00 Uhr]
 [Funktionsupdate] Admin konsole
 [Funktionsupdate] Error handler
+| [Beta-Version] [1.0.3.142] [Dienstag, 01.05.2018 20:00 Uhr]
+[Funktionsupdate] Admin konsole Channelslist
+[Funktionsupdate] Admin konsole Userlist
+[Funktionsupdate] Admin konsole Serverlist
+[Funktionsupdate] Admin konsole Infos
+[Funktionsupdate] Browser für Anzeigen
