@@ -14,3 +14,8 @@
 [Funktionsupdate] Admin konsole Serverlist
 [Funktionsupdate] Admin konsole Infos
 [Funktionsupdate] Browser für Anzeigen
+| [Beta-Version] [1.0.4.150] [Dienstag, 29.05.2018 13:00 Uhr]
+[Funktionsupdate] Ersteller Versionen Liste
+[Bugfix] fehlerhaft Update Version Konvertierung
+[Bugfix] Server start prüfung
+[Funktionsupdate] Wiki
