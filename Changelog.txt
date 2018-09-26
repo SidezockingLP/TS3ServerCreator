@@ -19,3 +19,7 @@
 [Bugfix] fehlerhaft Update Version Konvertierung
 [Bugfix] Server start prüfung
 [Funktionsupdate] Wiki
+| [Beta-Version] [1.0.5.150] [Dienstag, 29.05.2018 13:00 Uhr]
+[Funktionsupdate] Anzeigen 
+| [Beta-Version] [1.0.6.100] [Mittwoch, 26.09.2018 17:00 Uhr]
+[Funktionsupdate] Ersteller neue Versionsanzeige
